@@ -1,0 +1,8 @@
+++++++++++++++++++++++++++++++++++
+07-dic-2018 17:05:36
+Archivo de configuración= 
+filtro KB= C:\Users\Laura Moreno\Desktop\Nueva carpeta\IRIS.txt.kb.xml
+El archivo de datos= C:\Users\Laura Moreno\Desktop\Nueva carpeta\IRIS.txt.aux
+INTERPRETABILIDAD
+----------------------------------
+time begin -> 17:05:36

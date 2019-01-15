@@ -1,0 +1,10 @@
+++++++++++++++++++++++++++++++++++
+06-dic-2018 16:43:16
+Archivo de configuración= C:\GUAJE\IRIS.txt.ikb.xml
+filtro KB= C:/GUAJE-vb3.0/quickstart/DATA/IRIS.txt.kb.xml
+El archivo de datos= C:\GUAJE\IRIS.txt.aux
+PROCEDIMIENTO DE COMPLETITUD AUTOMÁTICO
+----------------------------------
+----------------------------------
+El Proceso Automático de Completitud de la base de reglas ha terminado.
+time end -> 16:43:16
